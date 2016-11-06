@@ -4,10 +4,9 @@
 sandcage-api-ruby is a Ruby library for interfacing with SandCage's API. The API documentation can be found at https://www.sandcage.com/docs/0.2/
 
 ### Table of Contents
-* [Requirements](https://github.com/sandcage/sandcage-api-ruby/blob/master/README.md#requirements)
 * [Installation](https://github.com/sandcage/sandcage-api-ruby/blob/master/README.md#installation)
 * [Examples](https://github.com/sandcage/sandcage-api-ruby/tree/master/examples)
-* [Contributing](https://github.com/sandcage/sandcage-api-ruby/blob/master/README.md#contribute)
+* [Contributing](https://github.com/sandcage/sandcage-api-ruby/blob/master/README.md#contributing)
 * [Contact Us](https://www.sandcage.com/contact)
 
 ## Installation
