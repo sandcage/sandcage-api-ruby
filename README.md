@@ -1,6 +1,7 @@
 ![SandCage](https://d18m5nnl28b2pp.cloudfront.net/p/a/img/header.png)
 
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/sandcage/sandcage-api-ruby/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/sandcage/sandcage-api-ruby/?branch=master)
+[![Build Status](https://travis-ci.org/sandcage/sandcage-api-ruby.svg?branch=master)](https://travis-ci.org/sandcage/sandcage-api-ruby)
 [![Gem Version](https://badge.fury.io/rb/sandcage.svg)](https://rubygems.org/gems/sandcage)
 
 sandcage-api-ruby is a Ruby library for interfacing with SandCage's API. The API documentation can be found at https://www.sandcage.com/docs/0.2/
