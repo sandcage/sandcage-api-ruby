@@ -1,0 +1,7 @@
+filter:
+  excluded_paths:
+    - spec/*
+    - examples/*
+checks:
+    ruby: true
+
